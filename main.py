@@ -26,7 +26,7 @@ for i in range(thickness + 1):
     # Print the two horizontal bars side by side again
     print((c * thickness).center(thickness * 2) + (c * thickness).center(thickness * 6))
 
-# Bottom vertical bars of the H (mirroring the top section)
+# Bottom Vertical bars of the H (mirroring the top section)
 for i in range(thickness):
     # Print the left vertical bar, center H, and right vertical bar, mirrored
     print(((c * (thickness - i - 1)).rjust(thickness) + c + (c * (thickness - i - 1)).ljust(thickness)).rjust(thickness * 6))
