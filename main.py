@@ -8,7 +8,7 @@ c = 'H'
 
 # Top Vertical Bars of the H (two sides of H)
 for i in range(thickness):
-    # Print the left vertical bar, center H, and right vertical bar
+    # Print the Left vertical bar, Center H, and Right vertical bar
     print((c * i).rjust(thickness - 1) + c + (c * i).ljust(thickness - 1))
 
 # Upper horizontal bar of the H (top crossbar)
