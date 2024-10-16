@@ -3,7 +3,7 @@
 # Get the Thickness (height of the letter H) from the user
 thickness = int(input("Enter the thickness of the letter H: "))
 
-# The character used to draw the H
+# The Character used to draw the H
 c = 'H'
 
 # Top Vertical Bars of the H (two sides of H)
