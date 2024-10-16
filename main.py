@@ -1,6 +1,6 @@
 # pyramid printing using text alignment in string.
 
-# Get the thickness (height of the letter H) from the user
+# Get the Thickness (height of the letter H) from the user
 thickness = int(input("Enter the thickness of the letter H: "))
 
 # The character used to draw the H
