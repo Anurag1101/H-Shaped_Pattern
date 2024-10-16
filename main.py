@@ -23,7 +23,7 @@ for i in range((thickness + 1) // 2):
 
 # Lower horizontal bar of the H (bottom crossbar)
 for i in range(thickness + 1):
-    # Print the two horizontal bars side by side again
+    # Print the two Horizontal bars side by side again
     print((c * thickness).center(thickness * 2) + (c * thickness).center(thickness * 6))
 
 # Bottom Vertical bars of the H (mirroring the top section)
