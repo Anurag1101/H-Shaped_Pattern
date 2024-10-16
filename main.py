@@ -6,7 +6,7 @@ thickness = int(input("Enter the thickness of the letter H: "))
 # The character used to draw the H
 c = 'H'
 
-# Top vertical bars of the H (two sides of H)
+# Top Vertical bars of the H (two sides of H)
 for i in range(thickness):
     # Print the left vertical bar, center H, and right vertical bar
     print((c * i).rjust(thickness - 1) + c + (c * i).ljust(thickness - 1))
