@@ -16,7 +16,7 @@ for i in range(thickness + 1):
     # Print the two horizontal bars side by side
     print((c * thickness).center(thickness * 2) + (c * thickness).center(thickness * 6))
 
-# Middle horizontal bar of the H (the longest crossbar)
+# Middle Horizontal bar of the H (the longest crossbar)
 for i in range((thickness + 1) // 2):
     # Print the wide horizontal bar in the center
     print((c * thickness * 5).center(thickness * 6))
