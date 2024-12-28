@@ -10,7 +10,7 @@ This project is a Python script that dynamically generates an H-shaped pattern u
 
 This project demonstrates basic string operations, looping techniques, and the power of Python’s built-in methods like rjust(), ljust(), and center(). By altering the thickness, users can see how the size of the pattern changes, making it a good exercise for both learning and experimenting with code output.
 
-**Motivation**:
+## **Motivation**:
 
 The motivation behind this project was to build a simple yet effective Python program that shows how text-based patterns can be created and manipulated based on user input.
 
@@ -23,7 +23,7 @@ Beginners who want to improve their understanding of loops and string manipulati
 Anyone looking to explore how ASCII art and similar patterns can be created programmatically.
 
 
-**Features**:
+## **Features**:
 
    Generates a visual H-shaped pattern based on user-defined thickness.
    
@@ -31,13 +31,13 @@ Anyone looking to explore how ASCII art and similar patterns can be created prog
    
    Shows Python's use of for loops, string formatting, and basic logic for pattern creation.
    
-**How It Works**:
+## **How It Works**:
 
    The user is prompted to enter the thickness (height) of the "H".
    
    The program prints the top vertical bars, the middle horizontal bar, and the bottom vertical bars symmetrically, depending on the thickness.
 
-**Character and Layout**:
+## **Character and Layout**:
 
 The letter 'H' is used as the character to create the pattern. The overall pattern consists of:
 
@@ -47,7 +47,7 @@ One horizontal bar that runs through the middle.
 
 Depending on the thickness provided by the user, the number of rows and columns increases, resulting in a larger or smaller "H".
 
-**Key Components of the Pattern**:
+## **Key Components of the Pattern**:
 
 **Top Half (Vertical Bars):**  The first part of the H is created by printing the left and right vertical bars of the H.
 
@@ -63,7 +63,7 @@ Depending on the thickness provided by the user, the number of rows and columns 
 
 **center():**  Centers the text by padding spaces on both sides.
 
-**Getting Started**:
+## **Getting Started**:
 
 **Prerequisites**:
 
@@ -81,9 +81,9 @@ Python 3.x should be installed on your system.
   
    Input the desired thickness when prompted.
    
-**License**:
+## **License**:
 
-This project is licensed under the MIT License.
+This project is licensed under the `MIT` License.
 
 
 
