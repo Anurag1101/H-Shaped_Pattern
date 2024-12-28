@@ -1,10 +1,10 @@
-**H-Shaped Pattern**
+# **H-Shaped Pattern**
 
-**Description**:
+## **Description**:
 
 This project generates a customizable H-shaped pattern using Python, where the size and thickness of the "H" can be controlled by user input. The pattern is constructed using the character 'H', and the script displays a symmetric "H" shape with vertical and horizontal bars that adjust based on the input value.
 
-**Overview**:
+## **Overview**:
 
 This project is a Python script that dynamically generates an H-shaped pattern using a customizable thickness value provided by the user. The H is constructed using the letter 'H' and is visually symmetric, with vertical bars on the sides and a horizontal bar in the middle. The program is ideal for beginners to learn how to manipulate strings, use loops, and format output for creating visual patterns in Python.
 
